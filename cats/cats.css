@@ -1,0 +1,46 @@
+a:visited {
+    color:#22032f
+}
+
+a:focus, a:hover {
+	color: #e3d19e;
+}
+
+body {
+    background-color: rgb(208, 174, 164);
+    background-image: url(paws.png);
+}
+
+h1 {
+    font-size: 5 em;
+    font-family: Victor Mono;
+    color: rgb(185, 242, 141);
+}
+
+header {
+    margin-top: 0;
+    text-align: center;
+    padding: 1em 1em 1em 1em;
+    background-color: rgba(86, 41, 32, 0.5);
+    border: 5px solid #261714;
+}
+footer img {
+	width: 60px;
+	height: 60px;
+	margin-left: 2em;
+	margin-right: 0.5em;
+}
+
+h2 {
+    margin-left: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(44, 30, 26); 
+}
+    p {
+        margin-left: 1em;   
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: large;
+    }
+    b {
+        color:rgb(163, 75, 68)
+    }
